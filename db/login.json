@@ -1,0 +1,9 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"login"},
+{"type":"table","name":"users","database":"login","data":
+[
+{"id":"0","username":"test_user","password":"$2y$10$i\/lasTHwhxS7AUkO4zDFS.kaEIa43ybvHm7ksN952NrRB7xtNl.f2","created_at":"2022-01-26 20:12:37"}
+]
+}
+]
