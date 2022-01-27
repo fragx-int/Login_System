@@ -3,7 +3,7 @@ Login_System</h1>
 
  `v.0.1`
 
-<h3>This is a login system designed by `fragX` to validate the user and prevent unauthorized access to confidential data. <h3>
+#### Login system designed by `fragX` to validate the user and prevent unauthorized access to confidential data.
 
 ## 🧐 Features
 - **Sign In and Sign Up page**
